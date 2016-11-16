@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Demonstrating Persist Operation-->
+<db>
+  <keytype>int</keytype>
+  <payloadtype>string</payloadtype>
+  <key>5</key>
+  <element>
+    <name>elem5name</name>
+    <descr>Testing Augmentation</descr>
+    <timestamp>2015-10-06T06:13:44.910488-04:00</timestamp>
+    <children>
+      <key>34</key>
+      <key>80</key>
+    </children>
+    <payload>Augmented Payload</payload>
+  </element>
+  <keycount>1</keycount>
+</db>

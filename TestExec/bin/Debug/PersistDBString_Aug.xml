@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Demonstrating Persist Operation-->
+<db>
+  <keytype>string</keytype>
+  <payloadtype>string</payloadtype>
+  <key>million</key>
+  <element>
+    <name>elem2</name>
+    <descr>This element will be removed in TestR3()</descr>
+    <timestamp>2015-10-06T18:11:02.3408835-04:00</timestamp>
+    <children>
+      <key>luey</key>
+      <key>duey</key>
+      <key>huey</key>
+    </children>
+    <payload>
+      <item>Pah Jeon</item>
+      <item>Tonkatsu</item>
+      <item>Jjigae</item>
+    </payload>
+  </element>
+  <keycount>2</keycount>
+</db>

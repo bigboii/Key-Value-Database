@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Demonstrating Persist Operation-->
+<db>
+  <keytype>int</keytype>
+  <payloadType>string</payloadType>
+  <key>0</key>
+  <element>
+    <name>New Edited Name!!</name>
+    <descr>I have been Edited!!!</descr>
+    <timestamp>2015-10-07T20:28:03.6989324-04:00</timestamp>
+    <children>
+      <key>-1</key>
+      <key>-2</key>
+      <key>-3</key>
+    </children>
+    <payload>Edited Payload!</payload>
+  </element>
+  <key>7</key>
+  <element>
+    <name>element7</name>
+    <descr>extra element for augmentation</descr>
+    <timestamp>2015-10-07T20:28:03.7284929-04:00</timestamp>
+    <children>
+      <key>9</key>
+      <key>13</key>
+    </children>
+    <payload>elem7's payload</payload>
+  </element>
+  <key>9</key>
+  <element>
+    <name>element7</name>
+    <descr>blahblahblah</descr>
+    <timestamp>2015-10-07T20:28:03.7284929-04:00</timestamp>
+    <children>
+      <key>77</key>
+      <key>99</key>
+    </children>
+    <payload>huehuehuehuehue</payload>
+  </element>
+  <key>5</key>
+  <element>
+    <name>elem5name</name>
+    <descr>Testing Augmentation</descr>
+    <timestamp>2015-10-06T06:13:44.910488-04:00</timestamp>
+    <children>
+      <key>34</key>
+      <key>80</key>
+    </children>
+    <payload>Augmented Payload</payload>
+  </element>
+  <keycount>2</keycount>
+</db>

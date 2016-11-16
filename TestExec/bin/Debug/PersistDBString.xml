@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Demonstrating Persist Operation-->
+<db>
+  <keytype>string</keytype>
+  <payloadType>string</payloadType>
+  <key>one</key>
+  <element>
+    <name>elem2</name>
+    <descr>This element will be removed in TestR3()</descr>
+    <timestamp>2015-10-07T20:28:03.686866-04:00</timestamp>
+    <children>
+      <key>1</key>
+      <key>2</key>
+      <key>3</key>
+    </children>
+    <payload>
+      <item>Kimchi</item>
+      <item>Bulgogi</item>
+      <item>Bibimbap</item>
+    </payload>
+  </element>
+  <key>two</key>
+  <element>
+    <name>elem4</name>
+    <descr>string key, List&lt;string&gt; payload</descr>
+    <timestamp>2015-10-07T20:28:03.686866-04:00</timestamp>
+    <children>
+      <key>Soju</key>
+      <key>Makgeolli</key>
+      <key>Sool</key>
+    </children>
+    <payload>
+      <item>Alice</item>
+      <item>Jacqueline</item>
+    </payload>
+  </element>
+  <key>million</key>
+  <element>
+    <name>elem2</name>
+    <descr>This element will be removed in TestR3()</descr>
+    <timestamp>2015-10-06T18:11:02.3408835-04:00</timestamp>
+    <children>
+      <key>luey</key>
+      <key>duey</key>
+      <key>huey</key>
+    </children>
+    <payload>
+      <item>Pah Jeon</item>
+      <item>Tonkatsu</item>
+      <item>Jjigae</item>
+    </payload>
+  </element>
+  <keycount>3</keycount>
+</db>

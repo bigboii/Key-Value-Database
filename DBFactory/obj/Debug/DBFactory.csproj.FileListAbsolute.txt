@@ -1,0 +1,10 @@
+C:\Users\YQ\Documents\Visual Studio 2015\Projects\Project2Starter\DBFactory\bin\Debug\DBFactory.exe.config
+C:\Users\YQ\Documents\Visual Studio 2015\Projects\Project2Starter\DBFactory\bin\Debug\DBFactory.exe
+C:\Users\YQ\Documents\Visual Studio 2015\Projects\Project2Starter\DBFactory\bin\Debug\DBFactory.pdb
+C:\Users\YQ\Documents\Visual Studio 2015\Projects\Project2Starter\DBFactory\bin\Debug\DBElement.exe
+C:\Users\YQ\Documents\Visual Studio 2015\Projects\Project2Starter\DBFactory\bin\Debug\UtilityExtensions.exe
+C:\Users\YQ\Documents\Visual Studio 2015\Projects\Project2Starter\DBFactory\bin\Debug\DBElement.pdb
+C:\Users\YQ\Documents\Visual Studio 2015\Projects\Project2Starter\DBFactory\bin\Debug\UtilityExtensions.pdb
+C:\Users\YQ\Documents\Visual Studio 2015\Projects\Project2Starter\DBFactory\obj\Debug\DBFactory.csprojResolveAssemblyReference.cache
+C:\Users\YQ\Documents\Visual Studio 2015\Projects\Project2Starter\DBFactory\obj\Debug\DBFactory.exe
+C:\Users\YQ\Documents\Visual Studio 2015\Projects\Project2Starter\DBFactory\obj\Debug\DBFactory.pdb
